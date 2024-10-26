@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://afinuebof.github.io/sitemap_index.afinuebof
